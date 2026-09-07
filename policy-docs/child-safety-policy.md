@@ -89,5 +89,6 @@ the fastest way to get to someone who can speak to how we prevent and handle CSA
 Where a platform or authority requires a single designated individual rather than a
 team, that contact is reachable at <seano@masto.nyc>.
 
-A summary of these standards, with a link back to this document, is published for
-the public at <https://5bfp.org/policies.html#child-safety-standards>.
+These standards are published for the public at <https://5bfp.org/child-safety.html>,
+and summarized on our policies page at
+<https://5bfp.org/policies.html#child-safety-standards>.
